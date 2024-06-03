@@ -4,4 +4,4 @@ Repositori ini adalah proyek belajar saya karena kebutuhan organisasi dan di dal
 
 Persyaratan :
 Python 3.x
-[Daftar pustaka Python yang diperlukan, misalnya, BeautifulSoup, request, panda, dll.]
+[Daftar pustaka Python yang diperlukan, misalnya, selenium, request, panda, dll.]
