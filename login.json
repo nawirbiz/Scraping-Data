@@ -1,0 +1,10 @@
+# Data login (sesuaikan dengan nama parameter form login di website)
+login_data = {
+    "id_daerah": ,
+    "id_role": ,
+    "id_skpd": ,
+    "id_pegawai": ,
+    'username': '',
+    'password': '',
+    'tahun': 2024,
+}
